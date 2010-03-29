@@ -1,0 +1,59 @@
+body {
+  width: 760px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: grey;
+}
+
+/* L'en-tête */
+
+#header {
+  width: 760px;
+  height: 100px;
+  background-color: #626262;
+  margin-bottom: 10px;
+}
+
+#header h1 {
+  text-align: center;
+}
+
+/* Le menu */
+
+#menu {
+  float: left;
+  width: 120px;
+}
+
+/* Le corps */
+
+#content {
+  margin-left: 140px;
+  margin-bottom: 20px;
+  padding: 5px;
+  color: #B3B3B3;
+  background-color: #626262;
+  border : 2px solid black;
+}
+  
+#content h1 {
+  color: #B3B3B3;
+  text-align: center;
+  font-family: Arial, "Arial Black", "Times New Roman", Times, serif;
+}
+
+fieldset {
+  background-color: #B1847E;
+}
+
+/* Le pied de page */
+
+#footer {
+  padding: 5px;
+  clear: both;
+  text-align: center;
+  color: #B3B3B3;
+  background-color: #626262;
+  border: 2px solid black;
+}
