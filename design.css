@@ -13,10 +13,12 @@ body {
   height: 100px;
   background-color: #626262;
   margin-bottom: 10px;
+  padding-top: 20px;
 }
 
 #header h1 {
   text-align: center;
+  color: #B3B3B3;
 }
 
 /* Le menu */
